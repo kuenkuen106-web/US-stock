@@ -1,0 +1,77 @@
+{
+  "open": {
+    "XOM_2026-03-27": {
+      "ticker": "XOM",
+      "entry_date": "2026-03-27",
+      "entry_price": 170.99,
+      "sl": 160.51,
+      "tp": 187.75,
+      "curr_price": 170.99000549316406,
+      "return_pct": 0.0,
+      "patterns": [
+        "P6_XS_Mom"
+      ]
+    },
+    "CVX_2026-03-27": {
+      "ticker": "CVX",
+      "entry_date": "2026-03-27",
+      "entry_price": 211.15,
+      "sl": 200.64,
+      "tp": 227.96,
+      "curr_price": 211.14999389648438,
+      "return_pct": -0.0,
+      "patterns": [
+        "P6_XS_Mom"
+      ]
+    },
+    "COP_2026-03-27": {
+      "ticker": "COP",
+      "entry_date": "2026-03-27",
+      "entry_price": 133.8,
+      "sl": 125.85,
+      "tp": 146.51,
+      "curr_price": 133.8000030517578,
+      "return_pct": 0.0,
+      "patterns": [
+        "P6_XS_Mom"
+      ]
+    },
+    "CTRA_2026-03-27": {
+      "ticker": "CTRA",
+      "entry_date": "2026-03-27",
+      "entry_price": 36.31,
+      "sl": 33.86,
+      "tp": 40.24,
+      "curr_price": 36.310001373291016,
+      "return_pct": 0.0,
+      "patterns": [
+        "P6_XS_Mom"
+      ]
+    },
+    "DVN_2026-03-27": {
+      "ticker": "DVN",
+      "entry_date": "2026-03-27",
+      "entry_price": 52.07,
+      "sl": 48.53,
+      "tp": 57.74,
+      "curr_price": 52.06999969482422,
+      "return_pct": -0.0,
+      "patterns": [
+        "P6_XS_Mom"
+      ]
+    },
+    "FANG_2026-03-27": {
+      "ticker": "FANG",
+      "entry_date": "2026-03-27",
+      "entry_price": 201.84,
+      "sl": 187.4,
+      "tp": 224.94,
+      "curr_price": 201.83999633789062,
+      "return_pct": -0.0,
+      "patterns": [
+        "P6_XS_Mom"
+      ]
+    }
+  },
+  "closed": []
+}
